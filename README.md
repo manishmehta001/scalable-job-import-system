@@ -99,7 +99,7 @@ scalable-job-import-system/
     └── cron_job/   # Cron job scheduling
 
 👨‍💻 Author
-Manish Kumar Mehta
+Manish Kumar 
 Full-Stack JavaScript Developer
 React | Next.js | NestJS | MongoDB | Node.js
 
